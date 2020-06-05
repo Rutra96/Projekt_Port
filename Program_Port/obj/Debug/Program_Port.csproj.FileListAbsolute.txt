@@ -1,0 +1,10 @@
+C:\Users\Artur\Desktop\projekt\Program_Port\Program_Port\bin\Debug\Program_Port.exe.config
+C:\Users\Artur\Desktop\projekt\Program_Port\Program_Port\bin\Debug\Program_Port.exe
+C:\Users\Artur\Desktop\projekt\Program_Port\Program_Port\bin\Debug\Program_Port.pdb
+C:\Users\Artur\Desktop\projekt\Program_Port\Program_Port\obj\Debug\Program_Port.csprojAssemblyReference.cache
+C:\Users\Artur\Desktop\projekt\Program_Port\Program_Port\obj\Debug\Program_Port.Form1.resources
+C:\Users\Artur\Desktop\projekt\Program_Port\Program_Port\obj\Debug\Program_Port.Properties.Resources.resources
+C:\Users\Artur\Desktop\projekt\Program_Port\Program_Port\obj\Debug\Program_Port.csproj.GenerateResource.cache
+C:\Users\Artur\Desktop\projekt\Program_Port\Program_Port\obj\Debug\Program_Port.csproj.CoreCompileInputs.cache
+C:\Users\Artur\Desktop\projekt\Program_Port\Program_Port\obj\Debug\Program_Port.exe
+C:\Users\Artur\Desktop\projekt\Program_Port\Program_Port\obj\Debug\Program_Port.pdb
